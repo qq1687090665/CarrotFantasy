@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -f \"d:/unity/CarrotFantasy/Unity.PlasticSCM.Editor.csproj\" \"d:/unity/CarrotFantasy/Unity.CollabProxy.Editor.csproj\" && echo \"PlasticSCM csproj files deleted\")"
+    ],
+    "additionalDirectories": [
+      "d:\\unity\\CarrotFantasy"
+    ]
+  }
+}
